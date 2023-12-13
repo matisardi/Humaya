@@ -1,0 +1,65 @@
+.fondoEncabezado {
+    background-image: url("../assets/img/imagenCentralModif.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    height: 100vh;
+    /* justify-content: flex-end; */
+}
+
+.colorProd {
+    color: white;
+    background-color: rgb(90, 85, 85);
+}
+
+.colorDulce {
+    color: rgb(213, 171, 139);
+}
+
+.btnInfo {
+    color: rgb(213, 171, 139);
+    border-color: rgb(213, 171, 139);
+}
+
+.bgP4 {
+    background-color: rgb(188, 161, 119);
+}
+
+.colorP4 {
+    color: rgb(98, 65, 29);
+}
+
+.btnP4 {
+    color: rgb(98, 65, 29);
+    border-color: rgb(98, 65, 29);
+}
+
+.colorCalidad {
+    color: white;
+    background-color: rgb(48, 46, 46);
+}
+
+.colorTextoIconos {
+    color: rgb(188, 161, 119);
+}
+
+.colorConsulta {
+    color: rgb(106, 41, 15);
+}
+
+.formLabelColor {
+    color: rgb(133, 107, 79);
+}
+
+.bgFormColor {
+    background-color: rgb(133, 107, 79);
+}
+
+.colorRecetas {
+    color: white;
+    background-color: rgb(35, 33, 33);
+}
+
+.colorTextoCard {
+    color: white;
+}
